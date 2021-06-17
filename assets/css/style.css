@@ -67,7 +67,7 @@ p {
     margin-left: 25px;
 }
 
-main{
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -186,7 +186,7 @@ main{
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
